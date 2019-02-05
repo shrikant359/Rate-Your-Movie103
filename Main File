@@ -8,6 +8,7 @@ int pay;
 printf("Enter the Customer Name:");
 scanf("%s",name);
 printf("Enter the Customer payment:");
-scanf("%s",pay);
+scanf("%d",pay);
+
 getch();
 }
