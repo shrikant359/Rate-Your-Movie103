@@ -2,6 +2,12 @@
 #include<stdio.h>
 int main()
 {
-printf("Welcome to Threater");
+printf("Welcome to  Customer Module");
+string name;
+int mobile;
+printf("enter the customer name:");
+scanf("% s",name);
+printf("enter the customer mobile no.:");
+scanf("% d",mobile)
 getch();
 }
